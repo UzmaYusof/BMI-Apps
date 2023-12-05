@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726677483221",
+    "project_id": "procrud-d33e3",
+    "storage_bucket": "procrud-d33e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726677483221:android:6c09011759ebfebf05fc5c",
+        "android_client_info": {
+          "package_name": "com.example.procrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_A3TEQJrUvygvni7YsVtyDGXdV555zYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726677483221:android:2b38a7e49e10a28f05fc5c",
+        "android_client_info": {
+          "package_name": "com.example.procrudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_A3TEQJrUvygvni7YsVtyDGXdV555zYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
